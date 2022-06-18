@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zack-666
+- 👋 Hi, I’m zack
 - 👀 I’m interested in artificial intelligence
 - 🌱 I’m currently learning Machine Learning
 - 📫 My Email is 82415923@qq.com,you can send to me
